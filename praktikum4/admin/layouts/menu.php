@@ -4,19 +4,19 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                         
-                            <a class="nav-link" href="praktikum3.php">
+                             <a class="nav-link" href="praktikum1.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Praktikum 3
+                                Praktikum 1
+                            </a>
 
                             <a class="nav-link" href="praktikum2.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Praktikum 2
 
-                              
-                            <a class="nav-link" href="praktikum1.php">
+                            <a class="nav-link" href="praktikum3.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Praktikum 1
-                            </a>
+                                Praktikum 3  
+                            
                             <div class="sb-sidenav-menu-heading">Interface</div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
                                 <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
